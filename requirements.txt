@@ -1,5 +1,2 @@
-flask
-gunicorn
-flask-cors
 requests
 json
